@@ -1,0 +1,61 @@
+¿Qué significa RTOS?
+A. Sistema de archivos de tiempo real
+B. Sistema operativo en tiempo real
+C. Sistema de red en tiempo real
+D. Sistema de respaldo en tiempo real
+ANSWER: B
+¿Cuál es la principal característica de un RTOS?
+A. Interfaz gráfica avanzada
+B. Alta capacidad de almacenamiento
+C. Respuestas en tiempos predecibles
+D. Compatibilidad con videojuegos
+ANSWER: C
+¿Qué es RTLinux?
+A. Una distribución de Linux para servidores
+B. Un sistema operativo de tiempo real basado en Linux
+C. Un software de edición de video
+D. Un antivirus para sistemas Linux
+ANSWER: B
+¿Se puede ejecutar RTLinux en una máquina virtual?
+A. Sí, pero con limitaciones de tiempo real
+B. No, solo en hardware físico
+C. A veces
+D. Solo en sistemas Windows
+ANSWER: A
+¿Qué tipo de tareas maneja mejor un RTOS?
+A. Tareas con requisitos de tiempo estrictos
+B. Tareas de procesamiento de texto
+C. Tareas de navegación web
+D. Tareas de reproducción multimedia
+ANSWER: A
+¿Qué es PREEMPT_RT?
+A. Una aplicación de edición de video
+B. Un parche de tiempo real para el kernel de Linux
+C. Un sistema de archivos en Android
+D. Un lenguaje de programación de bajo nivel
+ANSWER: B
+¿Cuál es una ventaja de usar RTLinux?
+A. Mayor consumo de recursos
+B. Menor estabilidad del sistema
+C. Capacidad de ejecutar tareas en tiempo real junto con Linux
+D. Compatibilidad exclusiva con hardware antiguo
+ANSWER: C
+
+¿Cuál de las siguientes opciones es una alternativa moderna a RTLinux?
+A. Windows XP
+B. PREEMPT_RT
+C. MS-DOS
+D. Android
+ANSWER: B
+¿Qué tipo de núcleo utiliza RTLinux?
+A. Monolítico
+B. Microkernel de tiempo real
+C. Híbrido
+D. Ninguno
+ANSWER: B
+¿Cuál es el estado actual del desarrollo de RTLinux?
+A. Sigue siendo activamente desarrollado por FSMLabs.
+B. Wind River continúa actualizando y mejorando RTLinux regularmente.
+C. El desarrollo de RTLinux ha sido descontinuado y ya no recibe actualizaciones oficiales.
+D. RTLinux es ahora el núcleo principal del sistema operativo Linux.
+ANSWER: C
